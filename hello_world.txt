@@ -1,0 +1,2 @@
+Hello World!
+I am currently learning Git on The Odin Project!
